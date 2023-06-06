@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @jeffsturm4nn (Jefferson Sales Fernandes). A software developer from Brazil [<∅>] 
-- 📫 How to reach me: <email> jefferson360@gmail.com </email>
+
